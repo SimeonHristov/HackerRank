@@ -1,4 +1,4 @@
-package P01_BalancedStrings;
+package StacksAndQueues.P01_BalancedStrings;
 
 import java.util.*;
 
